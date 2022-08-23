@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: GNAlibrary, Configuration: Release Any CPU ------
+1>D:\Software_C#\GNAlibrary\GNAlibrary\gnaToolbox.cs(2999,20,2999,30): warning CS0219: The variable 'strPointID' is assigned but its value is never used
+1>GNAlibrary -> D:\Software_C#\GNAlibrary\GNAlibrary\bin\Release\net5.0\GNAlibrary.dll
+1>Done building project "GNAlibrary.csproj".
+========== Build: 1 succeeded, 0 failed, 1 up-to-date, 0 skipped ==========
